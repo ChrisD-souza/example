@@ -1,2 +1,4 @@
 just using this as an example.
 console.og("this is just an example i'm trying out") 
+
+example: label :string 'app name'
